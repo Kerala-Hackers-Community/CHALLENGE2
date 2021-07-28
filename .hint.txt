@@ -1,1 +1,1 @@
-exif
+USE exiftool
